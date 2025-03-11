@@ -1,0 +1,6 @@
+numbs=list(range(15))
+print(numbs)
+numbs2=list(range(1,10))
+print(numbs2)
+numbs3=list(range(0,50,5))
+print(numbs3)
